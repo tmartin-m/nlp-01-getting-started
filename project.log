@@ -14,3 +14,19 @@
 2026-03-11 19:04:22 | INFO | CI | Pipeline executed successfully!
 2026-03-11 19:04:22 | INFO | CI | ========================
 2026-03-11 19:04:22 | INFO | CI | END main()
+2026-03-12 18:41:53 | INFO | CI | === RUN START ===
+2026-03-12 18:41:53 | INFO | CI | project=NLP
+2026-03-12 18:41:53 | INFO | CI | repo_dir=nlp-01-getting-started
+2026-03-12 18:41:53 | INFO | CI | python=3.14.3
+2026-03-12 18:41:53 | INFO | CI | os=Windows 11
+2026-03-12 18:41:53 | INFO | CI | shell=powershell
+2026-03-12 18:41:53 | INFO | CI | cwd=.
+2026-03-12 18:41:53 | INFO | CI | github_actions=False
+2026-03-12 18:41:53 | INFO | CI | START script.....
+2026-03-12 18:41:53 | INFO | CI | ROOT_PATH = .
+2026-03-12 18:41:53 | INFO | CI | NOTEBOOKS_PATH = notebooks
+2026-03-12 18:41:53 | INFO | CI | SCRIPTS_PATH = scripts
+2026-03-12 18:42:00 | INFO | CI | ========================
+2026-03-12 18:42:00 | INFO | CI | Pipeline executed successfully!
+2026-03-12 18:42:00 | INFO | CI | ========================
+2026-03-12 18:42:00 | INFO | CI | END main()
