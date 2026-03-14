@@ -131,3 +131,8 @@ git push -u origin main
 ## Example Artifact (Output)
 
 ![Word Cloud Example](docs/images/word_cloud_example.png)
+
+## Phase 4. Make a Technical Modification
+I elected to change the input for the file. I switched the natural languauge processing wikipedia to a website of the lyrics to Taylor Swifts song "All Too Well."  I also elected to adjust the output by changing the coloring to red to match the album's themeing the song was on.
+
+All 3 technical modifications were a success, but I did try several new inputs to see the differences between how sites with similar information can still produce different results. The biggest challenge was remembering to set a kernel for copied notebook before running the modifications.
